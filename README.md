@@ -6,7 +6,7 @@
 
 3) Connect the given database, with the command ".open database.sqlite";
 
-4) Run a query from the sql file itself ".read name_of_the_file.sql".
+4) Run a query from the sql file itself ".read name_of_the_file.sql";
 
 5) Do each sql file one by one.
 
