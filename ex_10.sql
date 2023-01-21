@@ -1,0 +1,1 @@
+select invoiceid, sum(quantity) from InvoiceLine group by invoiceid;

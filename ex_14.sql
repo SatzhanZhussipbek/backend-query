@@ -1,0 +1,1 @@
+select sum(trackid), Name from Playlist join PlaylistTrack pl on Playlist.PlaylistId=pl.PlaylistId group by Name;
