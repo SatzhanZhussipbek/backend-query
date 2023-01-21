@@ -2,15 +2,11 @@
 
 1) Go to the folder with .sql files that you downloaded from the github with "cd";
 
-2) Open commands one by one from .sql files in the terminal using "cat";
+2) Type the command "sqlite3";
 
-3) Copy the commands;
+3) Connect the given database, with the command ".open database.sqlite";
 
-4) Enter the command "sqlite3" in the terminal;
+4) Run a query from the sql file itself ".read name_of_the_file.sql".
 
-5) Connect the given database, with the command ".open database.sqlite";
-
-6) Start typing the copied commands one by one;
-
-7) On the other hand you could just run a query from the sql file itself "sqlite3 < name_of_the_file.sql".
+5) Do each sql file one by one.
 
